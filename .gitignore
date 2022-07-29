@@ -10,6 +10,7 @@ target/
 frontend/youtube-clone-ui/node_modules
 frontend/youtube-clone-ui/.pnp
 frontend/youtube-clone-ui/.pnp.js
+node_modules/
 
 # testing
 frontend/youtube-clone-ui/coverage
